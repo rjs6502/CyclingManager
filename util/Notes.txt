@@ -1,0 +1,25 @@
+Cycling Manager:
+
+
+
+Core Concepts:
+
+- Simulation Game
+
+- Create a Manager
+
+- Select a Team to Manage
+
+- Simlulate Races
+
+- Rider Development
+
+- Team Rankings
+
+- Manager Rankings
+
+- Rider Rankings
+
+- Scouting
+
+- Income Based Financial Decisions
