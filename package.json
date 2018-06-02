@@ -1,0 +1,19 @@
+{
+  "name": "cyclingmanager",
+  "version": "1.0.0",
+  "description": "Sports Simulation Game - Manage every aspect of a Professional Cycling Team.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rjs6502/CyclingManager.git"
+  },
+  "author": "Randy Seltzer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rjs6502/CyclingManager/issues"
+  },
+  "homepage": "https://github.com/rjs6502/CyclingManager#readme"
+}
